@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root datatype="config" comment="Default config file">
+  <language>
+    <spellchecker>en-US</spellchecker>
+  </language>
+  <presets>
+    <preset text="Add person tag">
+      <tag>person</tag>
+    </preset>
+    <preset text="Add people tag">
+      <tag>people</tag>
+    </preset>
+    <preset text="">
+      <tag></tag>
+      <tag></tag>
+    </preset>
+    <preset text="">
+      <tag></tag>
+      <tag></tag>
+    </preset>
+    <preset text="">
+      <tag></tag>
+      <tag></tag>
+    </preset>
+  </presets>
+  <tags>
+    <max>75</max>
+  </tags>
+</root>

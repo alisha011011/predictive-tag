@@ -1,0 +1,20 @@
+// DO NOT REMOVE THIS LINE [datatype="historical-data"]
+// Demo historical data file (minimal).
+
+animal, bird, fauna, owl, species, wildlife
+fog, forest, nature, trees, wilderness, woods
+animal, fauna, reptile, snake, species, wildlife
+asphalt, autumn, fall, forest, highway, road, trees
+boats, dusk, lake, outdoors, sunset, travel, vacation
+beach, dusk, nature, outdoors, sea, sunset, travel, vacation
+child, hat, market, shawl, woman
+child, childhood, flowers, girl, grass, meadow
+animal, elephant, fauna, species, wildlife
+clouds, landscape, nature, sea, sun, sunset, vacation
+abstract, artistic, oil, oil drop, oily, water
+farmland, fields, grassland, horizon, sunset, trees
+abstract, art, paint, painting
+abstract, acrylic paint, art, paint, painting
+art, colors, paint, paintbrush, painting, watercolors
+colors, paint, paint cans, paintbrush, painting
+acrylic paint, art, colors, paint, paint cans, paintbrush, painters, painting, watercolors

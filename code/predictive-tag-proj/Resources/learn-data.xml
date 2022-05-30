@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root datatype="learn-data" comment="Default learn data file">
+  <item tag="acrylic" suggest="art" score="2" />
+  <item tag="animal" suggest="species" score="1" />
+  <item tag="bird" suggest="wildlife" score="1" />
+  <item tag="elephant" suggest="animal" score="1" />
+  <item tag="giraffe" suggest="animal" score="1" />
+  <item tag="grapes" suggest="fruit" score="1" />
+  <item tag="lemon" suggest="citrus" score="1" />
+  <item tag="newt" suggest="reptile" score="1" />
+  <item tag="owl" suggest="bird" score="1" />
+  <item tag="paint" suggest="art" score="5" />
+  <item tag="paint" suggest="painting" score="6" />
+  <item tag="paint" suggest="painters" score="1" />
+  <item tag="paint" suggest="paintbrush" score="4" />
+  <item tag="paint" suggest="acrylic paint" score="3" />
+  <item tag="paint" suggest="watercolors" score="3" />
+  <item tag="paint" suggest="colors" score="2" />
+  <item tag="paint" suggest="paint cans" score="1" />
+  <item tag="snow" suggest="winter" score="1" />
+  <item tag="stitching" suggest="cloth" score="1" />
+  <item tag="stitching" suggest="fabric" score="1" />
+  <item tag="toad" suggest="animal" score="1" />
+  <item tag="winter" suggest="cold" score="1" />
+  <item tag="wolf" suggest="animal" score="1" />
+</root>
